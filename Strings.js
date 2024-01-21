@@ -20,3 +20,8 @@ let newname1=name.replace("Ram","Krishna");
 let newname=Name.slice(2,4);
 // 2 to end (rry)
 let newname=Name.slice(2);
+
+//Escape Sequence Characters
+\n  "Newline"
+\t  = "Tab"
+\r = "Carriage return"
